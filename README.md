@@ -10,9 +10,9 @@
 
 Sou estudante do **4º período de Ciência da Computação** no **Instituto Federal do Ceará (IFCE)**, com foco crescente em **Engenharia de Dados**. Minha trajetória passou por análise de dados (Python, Pandas, SQL, Looker Studio) e hoje estou expandindo para redes, arquitetura de sistemas e infraestrutura de dados.
 
-Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Academy**, onde desenvolvi dashboards completos, pipelines de dados e apresentações para clientes reais — o que me deu uma base sólida e prática para o mundo de dados.
+Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Academy**, onde desenvolvi dashboards completos, pipelines de dados e apresentações para clientes reais o que me deu uma base sólida e prática para o mundo de dados.
 
-> 💡 Sou alguém que entrou tímido e saiu comunicativo. Acredito que tecnologia se aprende fazendo — e ensinando.
+> 💡 Estou no início da minha jornada profissional, trago disposição, vontade de aprender e facilidade para me adaptar a novas tecnologias, ferramentas e times.
 
 ---
 
@@ -60,10 +60,12 @@ Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Acade
 - Layout projetado no **Figma** e atualização agendada automática
 - Apresentado para stakeholders como entrega final da **SoulCode Academy**
 
-### 🚗 Sistema de Gestão de Veículos *(em desenvolvimento)*
-> Sistema completo para gestão de uma concessionária/locadora.
-- Módulos de **vendas, locações, financiamentos e permutas**
-- Desenvolvido com foco em aplicação real (ex-vendedor de veículos)
+### 🏀 Análise Exploratória — NBA
+> Projeto de análise e visualização de dados sobre a NBA.
+- Exploração de dados históricos com Python e Pandas
+- Geração de insights através de análise exploratória (EDA)
+- Visualizações desenvolvidas para comunicar padrões e tendências da liga
+- Projeto com foco em aplicação prática de técnicas de análise de dados
 
 ---
 
