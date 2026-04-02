@@ -44,8 +44,6 @@ Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Acade
 
 ## 📚 Atualmente estudando
 
-- 🔁 **Protocolos de Roteamento** — RIP, EIGRP, OSPF, IS-IS, BGP (Redes 2 — IFCE)
-- 🌐 **IPv6** — endereçamento, transição e configuração
 - 🏗️ **Engenharia de Dados** — pipelines, modelagem e arquitetura
 - 🐍 **Python avançado** — POO, estruturas de dados, automatização
 
@@ -86,6 +84,25 @@ Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Acade
 |---|---|---|
 | **IFCE – Campus Aracati** | Ciência da Computação | 🟢 Em andamento (4º período) |
 | **SoulCode Academy** | Análise de Dados com Python | ✅ Concluído |
+
+---
+
+## 🏅 Certificações
+
+| Certificação | Plataforma | Carga Horária |
+|---|---|---|
+| Excel | Curso em Vídeo | 40h |
+| Python 3 – Mundo 2 | Curso em Vídeo | 40h |
+| Python 3 – Mundo 3 | Curso em Vídeo | 40h |
+| Análise de Dados com Python | SoulCode Academy | — |
+
+---
+
+## 🎓 Atividades Acadêmicas
+
+| Atividade | Evento | Resultado | Local | Ano |
+|---|---|---|---|---|
+| Maratona de Programação Aberta | ValeTech – Semana de Tecnologia do Vale do Jaguaribe | 🥈 2º lugar (trio) | IFCE – Campus Aracati | 2025 |
 
 ---
 
