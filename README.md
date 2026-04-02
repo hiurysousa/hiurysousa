@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do **4º período de Ciência da Computação** no **Instituto Federal do Ceará (IFCE)**, com foco crescente em **Engenharia de Dados**. Minha trajetória passou por análise de dados (Python, Pandas, SQL, Looker Studio) e hoje estou expandindo para redes, arquitetura de sistemas e infraestrutura de dados.
+Sou estudante do **4º período de Ciência da Computação** no **Instituto Federal do Ceará (IFCE)**, com foco crescente em **Engenharia de Dados**. Minha trajetória passou por análise de dados (Python, Pandas, SQL, Looker Studio) e hoje estou expandindo para engenharia, automação e infraestrutura de dados.
 
 Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Academy**, onde desenvolvi dashboards completos, pipelines de dados e apresentações para clientes reais o que me deu uma base sólida e prática para o mundo de dados.
 
