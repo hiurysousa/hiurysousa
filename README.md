@@ -94,7 +94,7 @@ Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Acade
 | Excel | Curso em Vídeo | 40h |
 | Python 3 – Mundo 2 | Curso em Vídeo | 40h |
 | Python 3 – Mundo 3 | Curso em Vídeo | 40h |
-| Análise de Dados com Python | SoulCode Academy | — |
+| Análise de Dados com Python | SoulCode Academy | 480h |
 
 ---
 
