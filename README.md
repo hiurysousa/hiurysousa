@@ -102,7 +102,7 @@ Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Acade
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00b4d8&style=flat-square&label=Visualizações+do+perfil" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hiurysousa&color=00b4d8&style=flat-square&label=Visualizações+do+perfil" alt="Profile views" />
   
   <br/><br/>
   
