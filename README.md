@@ -71,8 +71,8 @@ Antes da graduação, concluí um curso de **Análise de Dados na SoulCode Acade
 
 <div align="center">
 
-<img height="160em" src="[https://github-readme-stats.vercel.app/api?username=hiurysousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://github-readme-stats-eight-theta.vercel.app/api?username=hiurysousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)"/>
-<img height="160em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hiurysousa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiurysousa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiurysousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiurysousa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
